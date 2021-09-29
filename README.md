@@ -1,5 +1,4 @@
 # vote-demo
-这是一个基于near的投票合约，在这里你可以创建投票的议题进行投票。
 
 ## Project setup
 ```
